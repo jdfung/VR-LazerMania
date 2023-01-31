@@ -32,4 +32,4 @@ The game includes multiple power ups, allowing players to immerse well in destro
 ![ss2](https://github.com/jdfung/VR-LazerMania/blob/main/Screenshots/SS2.jpg)
 ![ss3](https://github.com/jdfung/VR-LazerMania/blob/main/Screenshots/SS3.jpg)
 
-If you have any questions or issues with the game, please don't hesitate to raise an issue in the Github repository. We hope you enjoy playing our Unity VR Spaceship Shooting Game!
+If you have any questions or issues with the game, please don't hesitate to raise an issue in the Github repository. I hope you enjoy playing my Unity VR Spaceship Shooting Game!
