@@ -21,7 +21,7 @@ The game includes multiple power ups, allowing players to immerse well in destro
 
 # Getting Started
 
-    Clone the repository using git clone https://github.com/[username]/Unity-VR-Spaceship-Shooting-Game.git
+    Clone the repository using git clone https://github.com/jdfung/VR-LazerMania.git
     Open the project in Unity Engine
     Build and run the project on your preferred platform
     Put on your Google Cardboard headset and immerse yourself in the game!
