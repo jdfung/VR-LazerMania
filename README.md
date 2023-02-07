@@ -2,7 +2,7 @@
 
 Welcome to my Unity VR Spaceship Shooting Game, "Lazer Mania"! This is a virtual reality experience that takes you on a thrilling journey through space. Using a Google Cardboard headset, players will be equipped with a lazer cannon and battle against enemy spacecraft in an action-packed shooter game.
 
-The game is developed with Unity and utilizes its powerful VR capabilities to provide an immersive experience. Players use their head movements to aim and shoot at incoming enemies while dodging incoming fire. The graphics are visually stunning, featuring detailed spaceships and vibrant space environments.
+The game is developed with Unity and utilizes its powerful VR capabilities to provide an immersive experience. Players use their head movements to aim and shoot as many incoming enemies as they can.
 
 The game includes multiple power ups, allowing players to immerse well in destroying as much spaceships as they can!
 
